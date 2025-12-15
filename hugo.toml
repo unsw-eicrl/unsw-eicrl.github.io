@@ -13,7 +13,7 @@
 # website title
 title = "embodied intelligence and collective robotics"
 # Hostname (and path) to the root
-baseURL = "http://localhost:1313"
+baseURL = "https://eicr-studio.github.io/"
 # theme list
 theme = ["FixIt"] # enable in your site config file
 # determines default content language ["en", "zh-cn", "fr", "pl", ...]
@@ -36,6 +36,7 @@ enableEmoji = true
 # if set, the MainSections method on the Site object returns the given sections,
 # otherwise it returns the section with the most pages.
 mainSections = ["posts"]
+
 
 # -------------------------------------------------------------------------------------
 # Menu Configuration
