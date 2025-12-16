@@ -13,7 +13,7 @@
 # website title
 title = "embodied intelligence and collective robotics"
 # Hostname (and path) to the root
-baseURL = "https://eicr-studio.github.io/"
+baseURL = "https://unsw-eicrl.github.io/"
 # theme list
 theme = ["FixIt"] # enable in your site config file
 # determines default content language ["en", "zh-cn", "fr", "pl", ...]
@@ -64,7 +64,7 @@ icon = ""
 [[menu.main]]
 identifier = "github"
 parent = ""
-url = "https://github.com/eicr-studio"
+url = "https://github.com/unsw-eicrl"
 name = ""
 weight = 9
 [menu.main.params]
@@ -553,7 +553,7 @@ mobileMode = "auto"
 # Header title config
 [params.header.title]
 # URL of the LOGO
-logo = "/images/eicr-logo-horizontal-69x32.png"
+logo = "/images/eicrl-logo-32x32.png"
 # title name
 name = ""
 # you can add extra information before the name (HTML format is supported), such as icons
@@ -566,8 +566,8 @@ typeit = false
 # FixIt 0.2.12 | NEW Header subtitle config
 [params.header.subtitle]
 # subtitle name, location
-name = "research studio"
-loc = " @ UNSW"
+name = " "
+loc = " "
 # whether to use typeit animation for subtitle name
 typeit = false
 
@@ -708,7 +708,7 @@ paginate = 6
 
 # FixIt 0.2.16 | CHANGED Social config about the author
 [params.social]
-GitHub = "https://github.com/eicr-studio"
+GitHub = "https://github.com/unsw-eicrl"
 Linkedin = ""
 Twitter = ""
 Instagram = ""
