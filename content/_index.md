@@ -3,7 +3,7 @@ title: "eicrl"
 subtitle: "embodied intelligence and collective robotics lab"
 type: "page"
 date: 2025-12-14T18:27:00+11:00
-modified: 2025-12-16T13:47:00+11:00
+modified: 2026-01-17T15:10:00+11:00
 
 params:
  author: Oliver Obst
@@ -19,4 +19,4 @@ Our research focuses on:
 
 We are interested in approaches that combine learning, probabilistic reasoning, and real-world experimentation, with an emphasis on efficiency, robustness, and physical grounding.
 
-The embodied intelligence and collective robotics lab is based at UNSW and led by Oliver Obst. We expect to host PhD projects aligned with these [research themes](/research/) and welcome [informal enquiries](mailto:research@evilrobots.ai?subject=Prospective%20PhD%20student) from prospective students. 
+The embodied intelligence and collective robotics lab is based at UNSW and led by Oliver Obst. We expect to host PhD projects aligned with these [research themes](/research/) and welcome [informal enquiries](mailto:o.obst@unsw.edu.au?subject=Prospective%20PhD%20student) from prospective students. 
